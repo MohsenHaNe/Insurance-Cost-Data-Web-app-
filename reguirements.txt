@@ -1,0 +1,6 @@
+necessary libes:
+ 	scikit-learn
+	pandas
+ 	numpy 
+	streamlit
+ 	pickle
